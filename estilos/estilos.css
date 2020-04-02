@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
+}
+
+body{
+    background:#F0B429;
+    font-family: 'Manjari', sans-serif;
+
+}
+.navegacion{
+    
+    width: 100%;
+    background-color: #fff;
+
+}
+.navegacion ul{
+    list-style: none;
+
+}
+.menu > li{
+   position: relative;
+    display: inline-block;
+}
+.menu > li > a{
+    display: block;
+    padding: 15px 20px;
+    color:#353535;
+    font-family: 'open sans';
+    text-decoration:none;
+}
+.menu li a:hover{
+    color: rgb(243, 191, 50);
+    transition:all .3s;
+}
+.submenu{
+    position: absolute;
+    background: #33333333;
+    width: 110%;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 1.5s;
+}
+.submenu li a{
+    display: block;
+    padding: 15px;
+    color: blanchedalmond;
+    font-family: 'Open sans';
+    text-decoration: none;
+}
+.menu li:hover .submenu{
+    visibility: visible;
+    opacity: 1;
+}
+
+
+.container{
+    background: #fff;
+    width: 90%;
+    max-width: 1000px;
+    margin:1.6em auto;
+
+    display: grid;
+    gap: 1.6em;
+    grid-template-columns: repeat(5,1fr);
+
+}
+.container>.header,
+.container>.content,
+.container>.sidebar,
+.container>.footer,
+.container> div{
+    
+    padding: 20px;
+    border: 1px solid #000000;
+}
+
+.container  header,
+.container  footer{
+    grid-column: 1/6;
+    background: #F47920;
+    color:#fff;
+
+}
+.container > .content{
+    grid-column: span 3;
+}
+.container > .sidebar{
+    grid-column: span 2;
+}
+.content > .article{
+background: #F0B429;
+padding: 20px;
+margin-top: 5px;
+color: #000000;
+}
+.content  .article h1{
+    padding: 8px;
+}
+.container  .header h1{
+    text-align: center;
+}
+
+
+.contenedor{
+    padding-bottom: 30%;
+    background-color:#005883;
+   }
+
+   /*
+
+   .conteni{
+       position: relative;
+       width: 100%;
+       background-color: teal;
+
+   }
+
+   .margen{
+    width: 50%;
+     height: 300px; 
+     background-color: aqua;  
+     float: left;
+   
+
+   }
+
+   .margen2{
+    width: 50%;
+     height: 300px; 
+     background-color: aqua;  
+     float: right;
+    
+
+   }*/

@@ -1,0 +1,47 @@
+<section class="padre">
+            
+
+                <div class="columnas">
+                    <h3>Construcción del OVI</h3>
+                    <p>
+                        Bienvenidos al OVI DE diseños de sitios 
+                        Bienvenidos al OVI DE diseños de sitios WEB(301122) Construccion OVI: Unidad 1: Fase de Diseño - Crear el Guión y la maquetación para un OVI en formato WEB con HTML5 y CSS3. Fase de Desarrollo, Creación del Guion y maquetación para un OVI  
+                    </p>
+                </div>
+                <div class="columnas">
+                    <h3>Objetivos del OVI</h3>
+                    <p>
+                        * El objetivo principal del OVI en la WEB es mostrar la informacion necesaria para manejar las herramientas como GIT, CCS3 y HTML5 * Canalizar la informacion en documentos, videos y actividades integradas en el OVI *subir la informacion en la WEB es parte de la practica de la construccion del OVI y dejarlo en un respositorio como GITHUB-PAGE para la visulizacion del mismo *Cumplir con lo requerido en la Fase3 de la Construcción del OVI que esta plasmado en la rubrica de la actividad *Plasmar parte del contenido del temario consignado en los temas para construir el OVI.
+
+                    </p>
+                                           
+                </div>
+            </section>
+            <section class="padre">
+            <div class="columnas">
+                    <h3>¿Que es GitHub?</h3>
+                <p>
+                    Github es una plataforma de desarrollo colaborativo de software para alojar proyectos usando el sistema de control de versiones Git. El código se almacena de forma pública, aunque también se puede hacer de forma privada, creando una cuenta de pago. También se pueden obtener repositorios privados (de pago) si se es estudiante.                </p>
+            </div>
+            <div class="columnas">
+                <h3>¿Que es HTML5?</h3>
+                <p>
+                    HTML5 es la última versión de HTML. El término representa dos conceptos diferentes: Se trata de una nueva versión de HTML, con nuevos elementos, atributos y comportamientos. Contiene un conjunto más amplio de tecnologías que permite a los sitios Web y a las aplicaciones ser más diversas y de gran alcance.                </p>
+            </div>
+           
+            </section>
+                <section class="padre">
+                    <div class="columnas">
+                        <h3>
+                            ¿Que es CSS3?
+
+                        </h3>
+                            <p>
+                                CSS es un lenguaje para definir el estilo o la apariencia de las páginas web, escritas con HTML o de los documentos XML. CSS se creó para separar el contenido de la forma, a la vez que permite a los diseñadores mantener un control mucho más preciso sobre la apariencia de las páginas. Con CSS3 se puede manejar etiquetas.            </div>
+                            <div class="columnas">
+                        <h3>¿Que es CSS3?</h3>
+                <p>
+                    Es un recurso digital que tiene como propósito explicar una teoría, concepto o problemática, básicamente y se compone de los siguientes ítems: Objetivos (Generales y Específicos) Contenido o Contexto (Explicación del tema) Evaluación o Actividad (Test o Práctica destinada a medir el grado adquisición de conocimientos por parte del Estudiante)            </div>
+           
+            </section>
+        
