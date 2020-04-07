@@ -29,7 +29,7 @@ body{
 .menu > li > a{
     display: block;
     padding: 15px 20px;
-    color:#353535;
+    color:#000000;
     font-family: 'open sans';
     text-decoration:none;
 }
@@ -84,6 +84,7 @@ body{
     grid-column: 1/6;
     background: #F47920;
     color:#fff;
+    text-align: center;
 
 }
 .container > .content{
@@ -102,7 +103,17 @@ color: #000000;
     padding: 8px;
 }
 .container  .header h1{
-    text-align: center;
+    
+    
+}
+.container .header img{
+    
+    padding: 17px;
+    background: #fff;
+    border-radius: 3px;
+    padding-right: 70%;
+    
+
 }
 
 
@@ -111,7 +122,60 @@ color: #000000;
     background-color:#005883;
    }
 
+   <!-- Css Lecturas-->
+
+   .contenedor_general{
+       width: 90%;
+       max-width: 1000px;
+       margin: 20px auto;
+       display: grid;
+       grid-gap: 20px;
+       grid-template-rows: repeat(4, auto);
+
+   }
+   .contenedor_general > div,
+   .contenedor_general .header_general,
+   .contenedor_general .footer_general,
+   .contenedor_general .contenido_general {
+        margin: 20px;
+       background: #fff;
+       padding: 20px;
+       border-radius: 4px;
+
+
+   }
+   .contenedor_general .header_general,
+   .contenedor_general .footer_general{
+    
+       background: #F47920;
+       color:#fff;
+       grid-column-start: 1;
+       grid-column-end: 3;
+       text-align: center;
+   }
+
+   .contenedor_general .contenido_general{
+       grid-column: span 3;
+       
+   }
+   .contenedor_general .contenido_general h1, p{
+       background: #F0B429;
+       color: #000000;
+
+   }
+   .contenedor_general .header_general img{
+    padding: 20px;
+    background: #fff;
+    border-radius: 3px;
+    padding-right: 75%;
+    text-align: center;
+
+
+   }
+   
+
    /*
+   
 
    .conteni{
        position: relative;
