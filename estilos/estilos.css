@@ -164,11 +164,18 @@ color: #000000;
 
    }
    .contenedor_general .header_general img{
-    padding: 20px;
-    background: #fff;
-    border-radius: 3px;
-    padding-right: 75%;
-    text-align: center;
+        padding: 20px;
+        background: #fff;
+        border-radius: 3px;
+        padding-right: 75%;
+        text-align: center;
+
+
+   }
+   .autores{
+        
+        text-align: center;
+       
 
 
    }
