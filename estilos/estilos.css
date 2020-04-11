@@ -51,6 +51,7 @@ body{
     color: blanchedalmond;
     font-family: 'Open sans';
     text-decoration: none;
+    background: rgb(0, 0, 0);
 }
 .menu li:hover .submenu{
     visibility: visible;
